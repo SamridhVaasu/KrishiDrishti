@@ -612,10 +612,6 @@ The application is configured to work with ThingSpeak IoT platform for sensor da
   - `field1`: Soil Moisture (%)
   - `field2`: Humidity (%)
   - `field3`: Temperature (°C)
-  - `field4`: Light level (lux)
-  - `field5`: Rainfall (mm)
-  - `field6`: Wind speed (km/h)
-  - `field7`: Soil pH
 
 To configure your own ThingSpeak channel:
 1. Create a ThingSpeak account and channel
@@ -644,11 +640,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-© 2025 Smart Farm Technologies | AgroSense AI v2.4.1
